@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "commander": "^9.4.0",
+    "js-yaml": "^4.1.0",
+    "tplink-smarthome-api": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.8"
+  }
+}

@@ -1,0 +1,25 @@
+devices:
+  - host: '10.0.7.161'
+    name: 'LR Entry'
+    indicatorLed: true
+    drivesLedLights: true  # Whether this switch is attached to LED light bulbs and needs faster transition on times
+  - host: '10.0.7.162'
+    name: 'Kitchen Main'
+    indicatorLed: true
+    drivesLedLights: true
+  - host: '10.0.7.163'
+    name: 'Kitchen Edison'
+    indicatorLed: true
+    drivesLedLights: false
+  - host: '10.0.7.151'
+    name: 'MBR A'
+    indicatorLed: true
+    drivesLedLights: true
+  - host: '10.0.7.152'
+    name: 'MBR B'
+    indicatorLed: false
+    drivesLedLights: true
+  - host: '10.0.7.153'
+    name: 'MBR C'
+    indicatorLed: false
+    drivesLedLights: true
